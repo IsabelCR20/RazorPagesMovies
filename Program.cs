@@ -1,13 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using RazorPagesMovies.Models;
 using Microsoft.Extensions.Logging;
+using RazorPagesMovies.Models;
+using System;
 
 namespace RazorPagesMovies
 {
